@@ -1,0 +1,12 @@
+ol li{
+    font-style: italic;
+}
+ol li {
+    color: greenyellow;
+    text-align: left;
+    font-size: 0px;
+}
+
+li{
+    color: blueviolet;
+}

@@ -1,0 +1,15 @@
+img{
+    background-color: olive;
+    width: 500px;
+    height: 500x;
+    background-color: beige;
+    animation-duration: 4s;
+    animation-direction: reverse;
+    animation-name: none;
+}
+h1{
+    color:orange;
+}
+h6{
+    font-style:italic;
+}
