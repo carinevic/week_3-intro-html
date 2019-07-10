@@ -1,3 +1,44 @@
-h1{
-    color:grey;
+body{
+    background-color: white;
+
+}
+.reviews{
+    background-color: gray;
+
+
+}
+h3{
+    color: mediumblue;
+}
+h5{
+    background-color: orange;
+    color: white;
+}
+.programs{
+    position: absolute;
+    -ms-wrap-margin: 10px;
+    background-color: pink;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+
+    
+}
+
+
+
+.category-box{
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin: 100px;
+    padding: 100px;
+    color: grey;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+    background-color: 378CFF;
+    width: 300px;
 }
