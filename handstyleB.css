@@ -1,0 +1,38 @@
+.text-muted{
+    background-color:white;
+   
+    
+}
+.card-title{
+    color: blue;
+}
+.card-footer{
+    background-color: darkorange;
+}
+.program{
+    background-color: grey;
+    color: black;
+}
+.body-b{
+    background-color: grey;
+}
+
+.text-body{
+    background-color: white;
+}
+.text{
+    background-color: grey;
+}
+.body{
+    margin: 20px;
+}
+.card-deck{
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: center;
+}
+.alert-light{
+    text-align: center;
+    color: black;
+}

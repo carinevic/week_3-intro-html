@@ -1,38 +1,42 @@
 
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-    /* Styles */
-    }
-ul li{
+@media screen and(min-width: 320px)and (max-width: 768px){
+
+
+span{
+padding: 10px;
+    text-align:  right;
     display: flex;
-    display: inline-block;
-    padding: 8px;
-    background-color: darkolivegreen;
-    width: 200px;
-    float: none;
+    background-color: beige;
+    margin: 10px;
 }
+
+
 .weddinggowns{
-    display: flex;
-    display: wrap;
-    width: 0;
-    height: 0;
-    background-color: rebeccapurple;
+    width: 200px;
+    margin: 30px;
+    border: 3px;
+    position: absolute;
+    
 }
 .variety{
-    color:wheat;
+    color:pink;
     display: flex;
     display: inline-block;
     display: wrap;
+    min-height: 100px;
+    justify-content: space-between;
+    flex-direction: column;
+    justify-content: auto;
+    position: relative;
 
 }
-ol li{
+.ol li{
     display: inline-block;
     padding: 8px;
     background-color: goldenrod;
     width: 200px;
     float: none;
 }
-image{
-    width:600px;
-    padding: 20px;
+
+
 }
